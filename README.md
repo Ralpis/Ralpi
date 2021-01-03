@@ -6,5 +6,6 @@
 ##### So, I try to study programming every day.
 
 ##### If you want to reach me, mail or message me. :)
+##### Mail : rotjsdn1@naver.com 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ralpis%2Fgjbae1212%2Fhit-counter)](https://github.com/Ralpis)                    
